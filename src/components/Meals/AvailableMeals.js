@@ -6,25 +6,25 @@ const DUMMY_MEALS =[
     {
         id : 'm1',
         name : 'Pizza',
-        description : "Loreum Ipsum dummy Text",
+        description : "Antarix",
         price : '20.00',
     },
     {
         id:'m2',
         name:'Pizza2',
-        description:"Loreum Ipsum dummy Text",
+        description:"Priyanka",
         price:'30.00',
     },
     {
         id:'m3',
         name:'Pizza',
-        description:"Loreum Ipsum dummy Text",
+        description:"Harshwardhan",
         price:'50.00',
     },
     {
         id:'m4',
         name:'Pizza',
-        description:"Loreum Ipsum dummy Text",
+        description:"Anil",
         price:'10.00',
     },
 ];
